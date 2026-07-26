@@ -20,7 +20,7 @@ Unlike traditional dashboards, DataMind Studio focuses on dataset quality, stati
 **Local Development**
 
 ```
-http://localhost:8000/
+(http://localhost:8080/)
 ```
 
 ---
